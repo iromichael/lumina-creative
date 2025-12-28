@@ -366,7 +366,7 @@ textarea {
 
 }
 
-input[type="button"] {
+input[type="submit"] {
     border: 1px solid var(--dark-background);
     background-color: white;
     color: var(--dark-background);
@@ -375,7 +375,7 @@ input[type="button"] {
     padding: 20px;
 }
 
-input[type="button"]:hover {
+input[type="submit"]:hover {
     border: 1px solid var(--dark-background);
     background-color: black;
     color: var(--text-color-white);
